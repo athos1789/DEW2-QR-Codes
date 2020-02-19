@@ -10251,5 +10251,5 @@ function select(element) {
   
     qrcode.src = url;
   
-    // qrtext.value = "";
+    qrtext.value = "";
   }
